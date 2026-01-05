@@ -16,3 +16,25 @@ Simplified trading backend built using Flask as part of Bajaj Broking campus hir
 1. Clone the repository
 ```bash
 git clone https://github.com/Soyal24/bajaj-broking-assignment.git
+---
+
+## Sample API Usage
+
+### Instruments API
+**GET** `/api/v1/instruments`
+
+![Instruments API](screenshots/Instruments.png)
+
+---
+
+### Place Order API
+**POST** `/api/v1/orders`
+
+![Place Order API](screenshots/Place_Order.png)
+
+---
+
+### Portfolio API
+**GET** `/api/v1/portfolio`
+
+![Portfolio API](screenshots/Portfolio.png)

@@ -3,7 +3,6 @@ import uuid
 
 app = Flask(__name__)
 
-# In-memory data
 instruments = [
     {"symbol": "AAPL", "exchange": "NASDAQ", "instrumentType": "EQUITY", "lastTradedPrice": 180},
     {"symbol": "GOOGL", "exchange": "NASDAQ", "instrumentType": "EQUITY", "lastTradedPrice": 140}
@@ -68,3 +67,8 @@ def get_portfolio():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
+
+

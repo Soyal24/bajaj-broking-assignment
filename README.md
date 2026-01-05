@@ -38,3 +38,11 @@ git clone https://github.com/Soyal24/bajaj-broking-assignment.git
 **GET** `/api/v1/portfolio`
 
 ![Portfolio API](screenshots/Portfolio.png)
+
+## Future Enhancements (Bonus)
+- Support for LIMIT orders and order cancellation
+- Persistent storage using a database (SQLite/PostgreSQL)
+- Authentication and authorization
+- Partial order execution
+- Swagger/OpenAPI documentation
+

@@ -3,7 +3,6 @@
 Simplified trading backend built using Flask as part of Bajaj Broking campus hiring assignment.
 
 ---
-
 ## Tech Stack
 - Python 3
 - Flask
